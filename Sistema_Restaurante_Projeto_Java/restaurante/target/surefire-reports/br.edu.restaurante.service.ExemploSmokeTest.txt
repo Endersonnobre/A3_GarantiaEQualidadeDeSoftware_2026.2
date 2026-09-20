@@ -1,4 +1,0 @@
--------------------------------------------------------------------------------
-Test set: br.edu.restaurante.service.ExemploSmokeTest
--------------------------------------------------------------------------------
-Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.117 s -- in br.edu.restaurante.service.ExemploSmokeTest
