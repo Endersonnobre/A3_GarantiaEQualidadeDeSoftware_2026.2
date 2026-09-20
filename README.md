@@ -1,0 +1,1 @@
+# A3_GarantiaEQualidadeDeSoftware_2026.2
