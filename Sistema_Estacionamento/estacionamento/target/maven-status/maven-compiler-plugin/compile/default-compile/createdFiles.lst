@@ -1,0 +1,13 @@
+br\edu\estacionamento\repositorio\BancoEmMemoria.class
+br\edu\estacionamento\dominio\Vaga.class
+br\edu\estacionamento\dominio\EstadoTicket.class
+br\edu\estacionamento\dominio\TipoVaga.class
+br\edu\estacionamento\dominio\Pagamento.class
+br\edu\estacionamento\dominio\Reserva.class
+br\edu\estacionamento\servico\CalculadoraTarifa.class
+br\edu\estacionamento\servico\ServicoEstacionamento.class
+br\edu\estacionamento\dominio\EstadoVaga.class
+br\edu\estacionamento\dominio\TipoVeiculo.class
+br\edu\estacionamento\app\Aplicacao.class
+br\edu\estacionamento\dominio\Ticket.class
+br\edu\estacionamento\dominio\Mensalista.class
