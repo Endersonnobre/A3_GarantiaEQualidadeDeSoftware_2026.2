@@ -1,0 +1,10 @@
+br\edu\estoque\dominio\EstadoReserva.class
+br\edu\estoque\dominio\Produto.class
+br\edu\estoque\servico\ServicoEstoque.class
+br\edu\estoque\app\Aplicacao.class
+br\edu\estoque\dominio\Transferencia.class
+br\edu\estoque\dominio\Reserva.class
+br\edu\estoque\repositorio\BancoEmMemoria.class
+br\edu\estoque\dominio\Deposito.class
+br\edu\estoque\dominio\Lote.class
+br\edu\estoque\dominio\Unidade.class
