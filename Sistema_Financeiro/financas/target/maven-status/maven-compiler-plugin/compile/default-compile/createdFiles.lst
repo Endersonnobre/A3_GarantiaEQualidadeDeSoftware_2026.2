@@ -1,0 +1,12 @@
+br\edu\financas\domain\Categoria.class
+br\edu\financas\domain\TipoLancamento.class
+br\edu\financas\domain\Orcamento.class
+br\edu\financas\domain\Lancamento.class
+br\edu\financas\app\FinancasApplication.class
+br\edu\financas\domain\Meta.class
+br\edu\financas\domain\Conta.class
+br\edu\financas\exception\RegraNegocioException.class
+br\edu\financas\repository\Repositories.class
+br\edu\financas\service\FinancaService.class
+br\edu\financas\domain\StatusLancamento.class
+br\edu\financas\repository\InMemoryRepositories.class

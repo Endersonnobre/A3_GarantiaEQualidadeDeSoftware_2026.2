@@ -1,0 +1,3 @@
+package br.edu.financas.app;
+import br.edu.financas.domain.*;import br.edu.financas.repository.*;import br.edu.financas.service.*;import java.math.BigDecimal;import java.time.LocalDate;
+public class FinancasApplication{public static void main(String[]a){var r=new InMemoryRepositories();var s=new FinancaService(r);var conta=s.criarConta("Conta corrente",new BigDecimal("1000.00"));var cat=s.criarCategoria("Alimentação",TipoLancamento.DESPESA);s.registrar(conta.getId(),cat.id(),TipoLancamento.DESPESA,new BigDecimal("75.90"),LocalDate.now(),StatusLancamento.EFETIVADO);System.out.println("Saldo consolidado: R$ "+s.saldoConsolidado());}}
