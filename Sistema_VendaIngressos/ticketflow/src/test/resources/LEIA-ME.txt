@@ -1,0 +1,1 @@
+A especificação de requisitos é a fonte de verdade. Amplie a suíte com testes unitários, parametrizados, de integração entre serviços e repositórios e testes de fluxo.

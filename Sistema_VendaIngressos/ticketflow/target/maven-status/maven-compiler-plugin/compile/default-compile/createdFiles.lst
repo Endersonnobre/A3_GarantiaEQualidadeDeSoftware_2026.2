@@ -1,0 +1,15 @@
+br\edu\ticketflow\service\ValidadorCliente.class
+br\edu\ticketflow\repository\InMemoryEventoRepository.class
+br\edu\ticketflow\service\CalculadoraPreco.class
+br\edu\ticketflow\repository\EventoRepository.class
+br\edu\ticketflow\exception\RegraNegocioException.class
+br\edu\ticketflow\domain\TipoIngresso.class
+br\edu\ticketflow\repository\PedidoRepository.class
+br\edu\ticketflow\domain\Cliente.class
+br\edu\ticketflow\domain\Evento.class
+br\edu\ticketflow\app\TicketFlowApplication.class
+br\edu\ticketflow\domain\ItemPedido.class
+br\edu\ticketflow\repository\InMemoryPedidoRepository.class
+br\edu\ticketflow\domain\StatusPedido.class
+br\edu\ticketflow\domain\Pedido.class
+br\edu\ticketflow\service\VendaService.class
